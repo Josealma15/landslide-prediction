@@ -28,8 +28,6 @@ Los modelos alcanzan más del 85 % de exactitud en la detección de deslizamient
 <img width="400" height="205" alt="image" src="https://github.com/user-attachments/assets/ec28aa68-c470-4b4f-af69-cf18f6094168" />
 
 - **Ranking** de departamentos ordenados por probabilidad promedio de deslizamiento.
-- 
-  <img width="1024" height="1536" alt="ChatGPT Image Jul 30, 2025, 07_12_10 PM" src="https://github.com/user-attachments/assets/ca154d2f-8fed-4b3f-a0fb-8ab65d0d9a4e" />
 
 - **Mockups** de prototipo de app (móvil y escritorio) para sistema de alerta en el futuro.
 <img width="1024" height="1536" alt="ChatGPT Image Jul 30, 2025, 07_12_10 PM" src="https://github.com/user-attachments/assets/4325ca5f-5af7-4411-bfeb-cdca23918013" />
