@@ -14,23 +14,23 @@ Los modelos alcanzan más del 85 % de exactitud en la detección de deslizamient
 
 - **Consolidación y limpieza** de datasets anuales en un solo DataFrame.  
 
-<img width="524" height="513" alt="image" src="https://github.com/user-attachments/assets/b39be871-5d58-4a56-b4b1-ca5688fed78a" />
+<img width="695" height="680" alt="limpieza" src="https://github.com/user-attachments/assets/1f8ef155-eb6d-43c0-8547-246463028bc9" />
 
 - **Análisis exploratorio** con conteos por departamento y por año.  
 
-<img width="629" height="619" alt="image" src="https://github.com/user-attachments/assets/9f77e485-9dc1-4d65-97d5-9a4e7f63ea91" />
+<img width="695" height="684" alt="ana1" src="https://github.com/user-attachments/assets/2aa61cdd-55bb-4953-950b-ceb7dc768a6e" />
 
-<img width="695" height="591" alt="image" src="https://github.com/user-attachments/assets/d48a72db-a944-41a6-a24d-1fded5f64d7b" />
+<img width="695" height="591" alt="ana2" src="https://github.com/user-attachments/assets/f312ad7d-39dc-43bd-9897-667b918650ee" />
 
 
 - **Modelos de ML**: Árbol de decisión, KNN y regresión logística.
 
-<img width="400" height="205" alt="image" src="https://github.com/user-attachments/assets/ec28aa68-c470-4b4f-af69-cf18f6094168" />
+<img width="695" height="356" alt="compara" src="https://github.com/user-attachments/assets/75d92f14-31d9-40c2-8f4e-debf6c88ed4e" />
 
 - **Ranking** de departamentos ordenados por probabilidad promedio de deslizamiento.
 
 - **Mockups** de prototipo de app (móvil y escritorio) para sistema de alerta en el futuro.
-<img width="1024" height="1536" alt="ChatGPT Image Jul 30, 2025, 07_12_10 PM" src="https://github.com/user-attachments/assets/4325ca5f-5af7-4411-bfeb-cdca23918013" />
-<img width="1024" height="1024" alt="ChatGPT Image Jul 30, 2025, 07_15_16 PM" src="https://github.com/user-attachments/assets/2bad0bdc-a4b6-406a-804b-6e435a7dfb13" />
+<img width="695" height="1043" alt="mock1" src="https://github.com/user-attachments/assets/8b6d6ffd-1948-4351-b034-3b56d6abe047" />
+<img width="695" height="695" alt="mock2" src="https://github.com/user-attachments/assets/ca558200-95c4-48ea-8ba7-5b4e5839b210" />
 
   
