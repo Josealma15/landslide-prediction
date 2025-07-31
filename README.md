@@ -30,7 +30,7 @@ Los modelos alcanzan más del 85 % de exactitud en la detección de deslizamient
 - **Ranking** de departamentos ordenados por probabilidad promedio de deslizamiento.
 
 - **Mockups** de prototipo de app (móvil y escritorio) para sistema de alerta en el futuro.
-<img width="695" height="1043" alt="mock1" src="https://github.com/user-attachments/assets/8b6d6ffd-1948-4351-b034-3b56d6abe047" />
+<img width="1024" height="1536" alt="ChatGPT Image Jul 30, 2025, 07_27_54 PM" src="https://github.com/user-attachments/assets/152e7964-6e13-4494-b2da-aa9526067464" />
 <img width="695" height="695" alt="mock2" src="https://github.com/user-attachments/assets/ca558200-95c4-48ea-8ba7-5b4e5839b210" />
 
   
