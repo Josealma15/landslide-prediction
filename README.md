@@ -14,7 +14,7 @@ Los modelos alcanzan más del 85 % de exactitud en la detección de deslizamient
 
 - **Consolidación y limpieza** de datasets anuales en un solo DataFrame.  
 
-<img width="200" height="196" alt="limpieza" src="https://github.com/user-attachments/assets/a0dbc6d0-cb2c-4a88-9ae0-c273212cd951" />
+<img width="695" height="680" alt="limpieza" src="https://github.com/user-attachments/assets/ccc575bc-d24b-4b8a-97b5-7ea8d26f143c" />
 
 - **Análisis exploratorio** con conteos por departamento y por año.  
 
